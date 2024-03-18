@@ -3,3 +3,4 @@ this update is from u2
 this is my first file
 add line for testing
 from f1 branch actual
+this is from u2 auto resolve
