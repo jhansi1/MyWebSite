@@ -4,3 +4,4 @@ this is my first file
 add line for testing
 from f1 branch actual
 this is from u2 auto resolve
+This is code added from features branch
